@@ -356,4 +356,4 @@ tools/           city_roads.pl, radar2png.pl, bin2hpp.pl
 
 The code and tools (`client/`, `include/vc_lc.inc`, `tools/` and the collision code in the filterscripts) are under the [MIT License](LICENSE), (c) 2026 noiseXYZ.
 
-The map content is **not** covered by it. That includes the models, object placements, paths, zones and radar art, and the road files and map images made from them. It comes from Grand Theft Auto: Vice City and Grand Theft Auto III, (c) Rockstar Games, by way of GTA:United and the VC2SA / LC2SA 4 SAMP conversion, and belongs to its owners.
+The map content is **not** covered by it. That includes the models, object placements, paths, zones and radar art, and the road files and map images made from them. It comes from Grand Theft Auto: Vice City and Grand Theft Auto III, (c) Rockstar Games, by way of GTA:United and the VC2SA / LC2SA 4 SAMP conversion, and belongs to its owners. See [NOTICE](NOTICE).

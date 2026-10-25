@@ -1,0 +1,14 @@
+Notice
+
+The MIT License in LICENSE covers the code and tools written for this repository:
+client/ (vc_lc.asi), include/vc_lc.inc, tools/, and the ColAndreas collision
+code added to the filterscripts.
+
+It does not cover the game content. The maps, models (models/), object
+placements, paths, zone data and radar art come from Grand Theft Auto: Vice City
+and Grand Theft Auto III, (c) Rockstar Games, by way of the GTA:United
+conversion and the VC2SA / LC2SA 4 SAMP filterscripts. They belong to their
+respective owners and are included only so the maps can be used on SA-MP /
+open.mp servers. The data derived from them (scriptfiles/GPS_VC.dat,
+scriptfiles/GPS_LC.dat, maps/vc.png, maps/lc.png and the zone coordinates) is
+covered the same way.
